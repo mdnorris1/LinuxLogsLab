@@ -1,4 +1,4 @@
-# LinuxLogsLab
+# Linux Logs Lab
 
 First, I navigated to the default log directory and took a look.
 
